@@ -1,0 +1,252 @@
+JIORG1
+counter=31
+bpm=112.000000
+basefreq=440.000000
+basenote=A
+etref=440.000000
+gridsize=12
+CHORD 1
+beats=1.000000
+name=G
+color=15270844
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 2
+beats=1.000000
+name=G
+color=711391
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 3
+beats=1.000000
+name=C
+color=8322583
+notes=3
+NOTE 0 row=7 col=6 octave=1
+NOTE 1 row=8 col=5 octave=1
+NOTE 2 row=8 col=6 octave=1
+CHORD 4
+beats=1.000000
+name=C9x
+color=16338976
+notes=3
+NOTE 0 row=8 col=5 octave=1
+NOTE 1 row=8 col=6 octave=1
+NOTE 2 row=9 col=7 octave=2
+CHORD 5
+beats=1.000000
+name=Gz
+color=1769063
+notes=2
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=7 octave=1
+CHORD 6
+beats=1.000000
+name=C
+color=11533059
+notes=3
+NOTE 0 row=7 col=6 octave=1
+NOTE 1 row=8 col=5 octave=1
+NOTE 2 row=8 col=6 octave=1
+CHORD 7
+beats=1.000000
+name=Em
+color=12773377
+notes=3
+NOTE 0 row=8 col=5 octave=1
+NOTE 1 row=8 col=6 octave=1
+NOTE 2 row=9 col=6 octave=1
+CHORD 8
+beats=1.000000
+name=D
+color=15598455
+notes=3
+NOTE 0 row=9 col=7 octave=1
+NOTE 1 row=10 col=6 octave=1
+NOTE 2 row=10 col=7 octave=1
+CHORD 9
+beats=1.000000
+name=Gz
+color=16511281
+notes=2
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=7 octave=1
+CHORD 10
+beats=1.000000
+name=G
+color=13297216
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 11
+beats=1.000000
+name=D
+color=1037271
+notes=3
+NOTE 0 row=9 col=7 octave=1
+NOTE 1 row=10 col=6 octave=1
+NOTE 2 row=10 col=7 octave=1
+CHORD 12
+beats=1.000000
+name=G
+color=16279832
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 13
+beats=1.500000
+name=G
+color=8591609
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 14
+beats=0.500000
+name=D
+color=14672651
+notes=3
+NOTE 0 row=9 col=7 octave=1
+NOTE 1 row=10 col=6 octave=1
+NOTE 2 row=10 col=7 octave=1
+CHORD 15
+beats=2.000000
+name=D
+color=9433354
+notes=3
+NOTE 0 row=9 col=7 octave=1
+NOTE 1 row=10 col=6 octave=1
+NOTE 2 row=10 col=7 octave=1
+CHORD 16
+beats=1.000000
+name=G
+color=14549996
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 17
+beats=1.000000
+name=G
+color=638449
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 18
+beats=1.000000
+name=Gsus9
+color=16511281
+notes=4
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=7 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+NOTE 3 row=10 col=7 octave=2
+CHORD 19
+beats=1.000000
+name=G9xz
+color=13697224
+notes=2
+NOTE 0 row=9 col=7 octave=1
+NOTE 1 row=10 col=7 octave=2
+CHORD 20
+beats=1.000000
+name=C9x
+color=761321
+notes=3
+NOTE 0 row=8 col=5 octave=1
+NOTE 1 row=8 col=6 octave=1
+NOTE 2 row=9 col=7 octave=2
+CHORD 21
+beats=1.000000
+name=C
+color=14935314
+notes=3
+NOTE 0 row=7 col=6 octave=1
+NOTE 1 row=8 col=5 octave=1
+NOTE 2 row=8 col=6 octave=1
+CHORD 22
+beats=1.000000
+name=Em
+color=13882377
+notes=3
+NOTE 0 row=8 col=5 octave=1
+NOTE 1 row=8 col=6 octave=1
+NOTE 2 row=9 col=6 octave=1
+CHORD 23
+beats=0.562500
+name=C
+color=16585601
+notes=3
+NOTE 0 row=7 col=6 octave=1
+NOTE 1 row=8 col=5 octave=1
+NOTE 2 row=8 col=6 octave=1
+CHORD 24
+beats=0.437500
+name=Am
+color=1175199
+notes=3
+NOTE 0 row=7 col=5 octave=1
+NOTE 1 row=7 col=6 octave=1
+NOTE 2 row=8 col=5 octave=1
+CHORD 25
+beats=1.000000
+name=G
+color=6093849
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 26
+beats=1.000000
+name=G
+color=16518559
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 27
+beats=1.000000
+name=D
+color=1036797
+notes=3
+NOTE 0 row=9 col=7 octave=1
+NOTE 1 row=10 col=6 octave=1
+NOTE 2 row=10 col=7 octave=1
+CHORD 28
+beats=1.000000
+name=G
+color=15052809
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
+CHORD 29
+beats=1.500000
+name=D
+color=11733475
+notes=3
+NOTE 0 row=9 col=7 octave=1
+NOTE 1 row=10 col=6 octave=1
+NOTE 2 row=10 col=7 octave=1
+CHORD 30
+beats=0.500000
+name=Gz
+color=8851963
+notes=2
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=7 octave=1
+CHORD 31
+beats=2.000000
+name=G
+color=11467291
+notes=3
+NOTE 0 row=8 col=6 octave=1
+NOTE 1 row=9 col=6 octave=1
+NOTE 2 row=9 col=7 octave=1
